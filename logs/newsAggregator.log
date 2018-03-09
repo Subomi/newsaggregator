@@ -1,0 +1,1 @@
+2018/03/09 15:35:38 Get https://newsapi.org/v2/top-headlines?country=us&category=health&apiKey=9d206d9be4174155bf59edb914ce4101: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
